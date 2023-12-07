@@ -1,0 +1,40 @@
+{
+  "name": "terio-react",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@iconify/icons-arcticons": "^1.2.66",
+    "@iconify/icons-eos-icons": "^1.2.6",
+    "@iconify/icons-game-icons": "^1.2.1",
+    "@iconify/icons-gg": "^1.2.4",
+    "@iconify/icons-healthicons": "^1.2.8",
+    "@iconify/icons-icomoon-free": "^1.2.3",
+    "@iconify/icons-line-md": "^1.2.24",
+    "@iconify/icons-logos": "^1.2.33",
+    "@iconify/icons-mdi": "^1.2.47",
+    "@iconify/icons-mdi-light": "^1.2.5",
+    "@iconify/icons-octicon": "^1.2.44",
+    "@iconify/icons-pepicons-pencil": "^1.2.1",
+    "@iconify/icons-solar": "^1.2.0",
+    "@iconify/icons-vaadin": "^1.2.4",
+    "@iconify/react": "^4.1.1",
+    "@next/font": "13.1.6",
+    "axios": "^1.6.1",
+    "isotope-layout": "^3.0.6",
+    "next": "13.1.6",
+    "react": "18.2.0",
+    "react-countup": "^6.4.1",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.12.0",
+    "react-slick": "^0.29.0",
+    "react-visibility-sensor": "^5.1.1",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^9.0.5"
+  }
+}
